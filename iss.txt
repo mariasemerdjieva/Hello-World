@@ -5,4 +5,6 @@ make change to iss23 branch
 on remote repository
 make change in local branch
 add one line in remote to test merge
+add line to test apply patch
+
 
