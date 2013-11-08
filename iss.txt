@@ -10,5 +10,5 @@ add line 2 to test apply patch
 add line for merge conflict
 test interactive staging line1
 test intercative staging line2
- 
+test view incomming updates
 
